@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/zte/nx507j" name="nx507j-dev/android_device_zte_nx507j" revision="cm-12.1" clone-depth="1" />
+  <project path="vendor/zte/nx507j" name="nx507j-dev/android_vendor_zte_nx507j" revision="cm-12.1" clone-depth="1" />
+  <project path="kernel/zte/nx507j" name="nx507j-dev/android_kernel_zte_nx507j" revision="cm-12.1" clone-depth="1" />
+
+</manifest>
