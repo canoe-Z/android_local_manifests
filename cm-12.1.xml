@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <project path="device/nubia/nx507j" name="nx507j-dev/android_device_nubia_nx507j" revision="cm-12.1" />
-  <project path="vendor/nubia/nx507j" name="nx507j-dev/android_vendor_nubia_nx507j" revision="cm-12.1" />
-  <project path="kernel/nubia/nx507j" name="nx507j-dev/android_kernel_nubia_nx507j" revision="cm-12.1" clone-depth="1" />
+  <project path="device/nubia/nx507j" name="nx507j-dev/android_device_zte_nx507j" revision="cm-12.1" />
+  <project path="vendor/nubia/nx507j" name="nx507j-dev/android_vendor_zte_nx507j" revision="cm-12.1" />
+  <project path="kernel/nubia/nx507j" name="nx507j-dev/android_kernel_zte_nx507j" revision="cm-12.1" clone-depth="1" />
 
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
