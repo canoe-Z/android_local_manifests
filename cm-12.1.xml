@@ -8,6 +8,8 @@
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
   <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" />
 
+  <!-- linaro -->
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-gnueabihf-4.9-linaro" name="nx507j-dev/arm-cortex_a15-linux-gnueabihf-linaro-4.9" revision="cm-12.1" clone-depth="1" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9-linaro" name="nx507j-dev/arm-linux-androideabi-4.9-linaro" revision="cm-12.1" clone-depth="1" />
 
 </manifest>
