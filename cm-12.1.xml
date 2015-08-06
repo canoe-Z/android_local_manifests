@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="origin"
+  <remote  name="pexcn"
            fetch="ssh://git@github.com" />
 
-  <project path="device/nubia/nx507j" name="pexcn/android_device_nubia_nx507j" remote="origin" revision="cm-12.1" />
-  <project path="vendor/nubia/nx507j" name="pexcn/android_vendor_nubia_nx507j" remote="origin" revision="cm-12.1" />
-  <project path="kernel/nubia/nx507j" name="pexcn/android_kernel_nubia_nx507j" remote="origin" revision="cm-12.1" />
+  <project path="device/nubia/nx507j" name="pexcn/android_device_nubia_nx507j" remote="pexcn" revision="cm-12.1" />
+  <project path="vendor/nubia/nx507j" name="pexcn/android_vendor_nubia_nx507j" remote="pexcn" revision="cm-12.1" />
+  <project path="kernel/nubia/nx507j" name="pexcn/android_kernel_nubia_nx507j" remote="pexcn" revision="cm-12.1" />
 
   <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" revision="cm-12.1" />
   <!-- <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" revision="cm-12.1" /> -->
